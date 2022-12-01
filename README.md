@@ -5,4 +5,4 @@ Nome: Matheus Andre Alves da Silva
 
    - 2 padrões estruturais: ADAPTER, FACADE
 
-   - 2 padrões comportamentais: OBSERVER, CHAIN OF RESPONSABILITY
+   - 2 padrões comportamentais: OBSERVER, STATE
